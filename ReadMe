@@ -1,10 +1,9 @@
 1 lab (установка node): https://github.com/TsirulikIvan/PortfolioJS
 2 lab (DTD): https://kodaktor.ru/unsafe_0224e
 3 lab (Лабораторное занятие 06.09.2018 и 08.09.2018): https://kodaktor.ru/unsafe_9e81b
-4 lab (): 
-5 lab(введение): https://kodaktor.ru/task_aec3a
-6 lab (функции): https://kodaktor.ru/task_func_fbcc9
-7 lab (зависимости код):
+4 lab(введение): https://kodaktor.ru/task_aec3a
+5 lab (функции): https://kodaktor.ru/task_func_fbcc9
+6 lab (зависимости код):
   const concat = require('goss_concat');
 
 function rgb(r = 255, g = 255, b = 255) {
@@ -23,8 +22,9 @@ document.querySelector('button')
      e.target.textContent = result; // вывод результата 
    }
 );
-8 lab ():
-9 lab ():
-10 lab ():
-11 lab ():
-12 lab (): 
+7 lab (JSDOC): https://tsirulikivan.github.io/JSdoc/
+8 lab (Счётчик): https://kodaktor.ru/2c4cefb_cfa48
+9 lab (jQuery): https://kodaktor.ru/zzzzzzz_a2628
+10 lab (IIFE): https://kodaktor.ru/16102018_ae024
+11 lab (30.10.2018): https://kodaktor.ru/08fd736
+12 lab (Async + fetch): https://kodaktor.ru/13112018_063db
