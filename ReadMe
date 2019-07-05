@@ -39,6 +39,11 @@ document.querySelector('button')
 8 UI 4 API https://kodaktor.ru/click_77cab
 9 Simple express server https://github.com/TsirulikIvan/dbApplication
 
+
+Others:
+Chat on React, node and express + Postgres:
+https://github.com/TsirulikIvan/TestChatonReact
+
 Certificates:
 js: https://www.sololearn.com/Certificate/1024-3472499/pdf/
 php: https://www.sololearn.com/Certificate/1059-3472499/pdf/
